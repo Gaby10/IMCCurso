@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="altura">Height</string>
+    <string name="peso">Weight</string>
+    <string name="calcular">Calculate</string>
+    <string name="app_name" translatable="false">Body Mass Index</string>
+    <string name="delgado">Thin</string>
+    <string name="obeso">Obese</string>
+    <string name="desnutrido">Malnourished</string>
+    <string name="sobrepeso">Overweight</string>
+    <string name="ideal">Ideal</string>
+</resources>

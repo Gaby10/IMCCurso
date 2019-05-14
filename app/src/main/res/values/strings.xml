@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CalculaIMC</string>
+    <string name="altura">Altura</string>
+    <string name="peso">Peso</string>
+    <string name="calcular">Calcular</string>
+    <string name="desnutrido">Desnutrido</string>
+    <string name="delgado">Delgado</string>
+    <string name="sobrepeso">Sobrepeso</string>
+    <string name="obeso">Obeso</string>
+    <string name="ideal">Ideal</string>
+</resources>
